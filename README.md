@@ -1,12 +1,5 @@
 # ALX Simple Shell Team Project
-<p align="center">
-<img src="https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/235/shell.jpeg" width="700" height="400" />
-</p>
 
-> This is an ALX collaboration project on Shell.
-> We were tasked to create a simple shell that mimics the Bash shell.
-> 
-> Our shell shall be called `hsh`.
 ## Introduction
 This repository is a ALX Holberton School Project. The school project consisted in writing a shell like `sh` (Bourne Shell) by Stephen Bourne , in `C`, using a limited number of standard library functions, so instead we used our own function that we rewrited over the past three month [Here.](https://github.com/TosinISOGUN/alx-low_level_programming)
 
@@ -214,15 +207,5 @@ $
 **Thank you for going through our shell documentation.**
 
 ## AUTHORS
-
-### 🤵🏼 Olaoluwa ISOGUN
-- [GitHub](https://github.com/OlaoluwaISOGUN)
-- [LinkedIn](https://www.linkedin.com/in/olaoluwa-isogun-31b602247)
-
-### 🤵🏻‍ Oluwatomisin ISOGUN
-
-<a href="https://www.linkedin.com/in/oluwatomisin-isogun-1b766823b/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/linkedin.png" alt="Tosin ISOGUN | LinkedIn" width="40px"/></a>
-<a href="https://m.facebook.com/tosintokunbo.isogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/facebook.svg" alt="Tosin ISOGUN | Facebook" width="40px"/></a>
-<a href="https://wa.link/nxtuti/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/whatsapp2.png" alt="Tosin ISOGUN | WhatsApp" width="40px"/></a>
-<a href="https://www.instagram.com/oluwatomisinisogun/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/instagram.svg" alt="Tosin ISOGUN | Instagram" width="40px"/></a>
-<a href="https://mobile.twitter.com/tomson172/"><img align="left" src="https://raw.githubusercontent.com/TosinISOGUN/TosinISOGUN/main/twitter.svg" alt="Tosin ISOGUN | Twitter" width="40px"/></a>
+OLAWUNMI ENIOLA
+QUEEN UNOGWU
