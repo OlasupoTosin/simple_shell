@@ -207,6 +207,6 @@ $
 **Thank you for going through our shell documentation.**
 
 ## AUTHORS
-OLAWUNMI ENIOLA
+OLUWATOSIN FRANCIS OLASUPO
 <br>
-QUEEN UNOGWU
+SARUMI (SODIQ) SODIQ
